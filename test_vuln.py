@@ -1,0 +1,1 @@
+STRIPE_SECRET = "sk_live_51Nx92kL88aBCdEfGhIjKlMnOpQrStUvWxYz"
